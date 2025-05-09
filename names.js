@@ -5,4 +5,5 @@ function fullName(firstName, lastName) {
   };
   return fullNameObj;
 }
-module.export = fullName;
+
+export default fullName;
